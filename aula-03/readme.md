@@ -32,7 +32,7 @@
   1. [PWA](./01-pwa.md)
   2. [Configs](./02-configs.md)
   3. [Sentry](./03-sentry.md)
-  4. [Star Was](./04-star-wars.md)
+  4. [Star Wars](./04-star-wars.md)
   5. [Register](./05-register.md)
   6. [Cache](./06-cache.md)
   7. [Eleições](./07-eleicoes.md)
