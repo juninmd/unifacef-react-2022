@@ -39,10 +39,14 @@ src/containers/star-wars/store.ts
 ```
 
 ```tsx
-import { action, observable } from 'mobx';
+import { action, observable, makeAutoObservable } from 'mobx';
 import { getFilms } from '../../apis/star-wars.api';
 
 export default class StarWarsStore {
+  constructor() {
+    makeAutoObservable(this)
+  }
+
   @observable films: any[] = [];
 
   @action buildFilms = async () => {
