@@ -9,7 +9,7 @@ yarn build
 Instale o servidor local e habilite o projeto
 
 ```bash
-  yarn global add serve
+  yarn global add serve // npm install -g serve
   serve -s build
 ```
 
