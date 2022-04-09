@@ -6,14 +6,6 @@
   * Revisão Tecnologias WEb
   * Exemplos HTML / JavaScript / CSS
   * Apresentação das ferramentas
-  * Criando primeiro Projeto
-  * Configurando o projeto com novas bibliotecas
-    * Axios
-    * React Router
-    * MobX
-    * Semantic UI React
-    * Variáveis de Ambiente
-    * Tratativas de Erro
 
 ## Ordem
 
@@ -21,7 +13,6 @@
   2. [JavaScript](./02-javascript.md)
   3. [ReactJs](./03-react.md)
   4. [Tools](./04-tools.md)
-  5. [Primeiro Projeto](./05-primeiro-projeto.md)
 
 ## Links úteis
 
