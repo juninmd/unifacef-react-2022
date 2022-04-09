@@ -154,10 +154,14 @@ src/containers/star-wars-details/store.ts
 ```
 
 ```ts
-import { action, observable } from 'mobx';
+import { action, observable, makeAutoObservable } from 'mobx';
 import { getFilmById } from '../../apis/star-wars.api';
 
 export default class StarWarsDetailsStore {
+  constructor() {
+    makeAutoObservable(this)
+  }
+
   @observable film: any = {};
 
   @action buildFilmById = async (id: number) => {
