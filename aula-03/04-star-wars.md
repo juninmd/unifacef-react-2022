@@ -1,6 +1,12 @@
 
 ## Star Wars
 
+## Env
+
+```
+REACT_APP_STAR_WARS_URL=https://star-wars-api-unifacef.herokuapp.com
+```
+
 Crie uma nova pasta chamada star-wars dentro de apis
 
 Crie um novo arquivo
