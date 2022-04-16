@@ -5,7 +5,7 @@
 * [Anilton Francisco de Morais Junior](https://github.com/AniltonMoraisJr/aulaReactJS) | OK
 * [Bruna Késsia Gonçalves](https://github.com/brugoncalves/unifacef-react-typescript) | OK
 * [David Stefani Prado](https://github.com/DavidPrado/posaulareact) | OK
-* [Edmar Antonio da Costa Junior]()
+* [Edmar Antonio da Costa Junior]() | 0
 * [Hyan Kelwin Souza Campos](https://github.com/hyankelwin/reactjs-typescript-unifacef) | OK
 * [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) | OK
 * [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) | OK
