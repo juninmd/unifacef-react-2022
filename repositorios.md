@@ -16,5 +16,5 @@
 * [Odair Pedroso Junior](https://github.com/odair-pedroso/react-unifacef) | OK
 * [Reinaldo de Paula Silveira](https://github.com/rpsilveira/projeto-react-unifacef) | OK
 * [Thaísa Honorio Morandini](https://github.com/thaisamorandini89/unifacefreactapp) | OK
-* [Thiago Henrique de Matos](https://github.com/ThiagoHMatos)
+* [Thiago Henrique de Matos](https://github.com/ThiagoHMatos) | Pending
 * [Vinicius Manso Carrijo](https://github.com/ViniciusCarrijo/react-facef) | OK
